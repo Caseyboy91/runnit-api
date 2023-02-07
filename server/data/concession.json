@@ -4,7 +4,7 @@
     "category": "snacks",
     "name": "Fresh Baked Cookie",
     "description": "Brown Butter Toffee Cookie or Chocolate Chocolate Chunk Cookie",
-    "price": "$4",
+    "price": 4,
     "image": "https://i.imgur.com/Eh7dTv7.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "category": "snacks",
     "name": "Loaded Brownie",
     "description": "Loaded Peanut Butter Cup Brownie or S'mores Brownie",
-    "price": "$4",
+    "price": 4,
     "image": "https://i.imgur.com/Cel4q5p.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "category": "snacks",
     "name": "Chips",
     "description": "Salt and Vinager or Regular Potato Chips",
-    "price": "$4",
+    "price": 4,
     "image": "https://i.imgur.com/nUYuwKh.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "category": "snacks",
     "name": "Fruit Cup",
     "description": "Seasonal Fruit and Berries, Orange-scented Honey, vanilla Yogurt",
-    "price": "$4",
+    "price": 4,
     "image": "https://i.imgur.com/qOjegtd.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "category": "snacks",
     "name": "Candy Bar",
     "description": "Hershey's, Reese's Peanut Butter Cups, Reese's Pieces, KitKat",
-    "price": "$3",
+    "price": 3,
     "image": "https://i.imgur.com/zZJjt1H.png"
   },
   {
@@ -44,7 +44,7 @@
     "category": "snacks",
     "name": "Soda",
     "description": "Pepsi, Diet, Mtn Dew, Sierra Mist",
-    "price": "$2",
+    "price": 2,
     "image": "https://i.imgur.com/N6Dx4C7.png"
   }
 ]
