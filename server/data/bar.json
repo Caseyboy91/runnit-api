@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "price_1MZ17EJEa84ywZCmAjwWCG1U",
     "category": "Draft",
     "name": "Iced Coffee Blonde",
     "description": "IBU 12 | ABV 5.4%",
@@ -8,7 +8,7 @@
     "image": "https://i.imgur.com/n9MI6FZ.png"
   },
   {
-    "id": "2",
+    "id": "price_1MZ18YJEa84ywZCmPwORWFi8",
     "category": "Draft",
     "name": "Honey Wheat",
     "description": "IBU 12 | ABV 5.2%",
@@ -16,7 +16,7 @@
     "image": "https://i.imgur.com/dGM0EVP.png"
   },
   {
-    "id": "3",
+    "id": "price_1MZ19NJEa84ywZCmRWgLs8fV",
     "category": "Draft",
     "name": "Blood Orange Pale Ale",
     "description": "IBU 5 | ABV 5.5%",
@@ -24,7 +24,7 @@
     "image": "https://i.imgur.com/1O7o2Fh.png"
   },
   {
-    "id": "4",
+    "id": "price_1MZ1BVJEa84ywZCmu3bO7Pd0",
     "category": "Draft",
     "name": "West Coast IPA",
     "description": "IBU 60 | ABV 6.3%",
@@ -32,7 +32,7 @@
     "image": "https://i.imgur.com/DCwP1m6.png"
   },
   {
-    "id": "5",
+    "id": "price_1MZ1CIJEa84ywZCm9IQJ66kp",
     "category": "Draft",
     "name": "Mexican Chocolate",
     "description": "IBU 16 | ABV 5.9%",
@@ -40,7 +40,7 @@
     "image": "https://i.imgur.com/twQ9Lku.png"
   },
   {
-    "id": "6",
+    "id": "price_1MZ1CmJEa84ywZCmi8G3Ylvk",
     "category": "Draft",
     "name": "Belgian White",
     "description": "IBU 9 | ABV 5.4%",
@@ -49,7 +49,7 @@
   },
 
   {
-    "id": "7",
+    "id": "price_1MZ1DXJEa84ywZCmmjxikrUa",
     "category": "Cocktail",
     "name": "Agave Moon",
     "description": "Blue Moon Belgian White, El Jimador Tequila, Lime Juice",
@@ -57,7 +57,7 @@
     "image": "https://i.imgur.com/dc3CZBy.jpg"
   },
   {
-    "id": "8",
+    "id": "price_1MZ1EFJEa84ywZCmEmaAOJen",
     "category": "Cocktail",
     "name": "Island Moon",
     "description": "Blue Moon Belgian White, Captain Morgan Original Spiced Rum, Pineapple Juice",
@@ -66,7 +66,7 @@
   },
 
   {
-    "id": "9",
+    "id": "price_1MZ1EmJEa84ywZCmTkJKnGGp",
     "category": "Cocktail",
     "name": "Summer Moon",
     "description": "Blue Moon Belgian White, New Amsterdam Vodka, Lemonade",
