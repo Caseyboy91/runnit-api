@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
-const barRouter = require("./routes/bar");
-const concessionRouter = require("./routes/concession");
+const itemsRouter = require("./routes/items.js");
+
 const stripe = require("stripe")(
   "sk_test_51MZ12jJEa84ywZCmIu3IIUicd1jXzhBHN6yIcgWEzKNgm5MnF69cIhL8wCpOngAoHqN8kHo8prhDuJvWxXYCjI4a00W0pA8Zi3"
 );
@@ -15,8 +15,7 @@ app.use(express.static("public"));
 require("dotenv").config();
 const { PORT } = process.env;
 
-app.use("/bar", barRouter);
-app.use("/concession", concessionRouter);
+app.use("/items", itemsRouter);
 
 app.post("/checkout", async (req, res) => {
   const items = req.body.items;
