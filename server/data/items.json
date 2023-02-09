@@ -105,14 +105,7 @@
     "price": 4,
     "image": "https://i.imgur.com/qOjegtds.jpg"
   },
-  {
-    "id": "price_1MZMpTJEa84ywZCmzjuDULsL",
-    "category": "concession",
-    "name": "Candy Bar",
-    "description": "Hershey's, Reese's Peanut Butter Cups, Reese's Pieces, KitKat",
-    "price": 3,
-    "image": "https://i.imgur.com/zZJjt1H.png"
-  },
+
   {
     "id": "price_1MZMqOJEa84ywZCmlCcb8hBe",
     "category": "concession",
