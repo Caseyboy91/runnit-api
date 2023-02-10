@@ -1,7 +1,7 @@
 [
   {
     "id": "price_1MZ17EJEa84ywZCmAjwWCG1U",
-    "category": "Draft",
+    "category": "bar",
     "name": "Iced Coffee Blonde",
     "description": "IBU 12 | ABV 5.4%",
     "price": 12,
@@ -9,7 +9,7 @@
   },
   {
     "id": "price_1MZ18YJEa84ywZCmPwORWFi8",
-    "category": "Draft",
+    "category": "bar",
     "name": "Honey Wheat",
     "description": "IBU 12 | ABV 5.2%",
     "price": 12,
@@ -17,7 +17,7 @@
   },
   {
     "id": "price_1MZ19NJEa84ywZCmRWgLs8fV",
-    "category": "Draft",
+    "category": "bar",
     "name": "Blood Orange Pale Ale",
     "description": "IBU 5 | ABV 5.5%",
     "price": 12,
@@ -25,7 +25,7 @@
   },
   {
     "id": "price_1MZ1BVJEa84ywZCmu3bO7Pd0",
-    "category": "Draft",
+    "category": "bar",
     "name": "West Coast IPA",
     "description": "IBU 60 | ABV 6.3%",
     "price": 12,
@@ -33,7 +33,7 @@
   },
   {
     "id": "price_1MZ1CIJEa84ywZCm9IQJ66kp",
-    "category": "Draft",
+    "category": "bar",
     "name": "Mexican Chocolate",
     "description": "IBU 16 | ABV 5.9%",
     "price": 12,
@@ -41,7 +41,7 @@
   },
   {
     "id": "price_1MZ1CmJEa84ywZCmi8G3Ylvk",
-    "category": "Draft",
+    "category": "bar",
     "name": "Belgian White",
     "description": "IBU 9 | ABV 5.4%",
     "price": 12,
@@ -50,7 +50,7 @@
 
   {
     "id": "price_1MZ1DXJEa84ywZCmmjxikrUa",
-    "category": "Cocktail",
+    "category": "bar",
     "name": "Agave Moon",
     "description": "Blue Moon Belgian White, El Jimador Tequila, Lime Juice",
     "price": 19,
@@ -58,7 +58,7 @@
   },
   {
     "id": "price_1MZ1EFJEa84ywZCmEmaAOJen",
-    "category": "Cocktail",
+    "category": "bar",
     "name": "Island Moon",
     "description": "Blue Moon Belgian White, Captain Morgan Original Spiced Rum, Pineapple Juice",
     "price": 19,
@@ -67,10 +67,51 @@
 
   {
     "id": "price_1MZ1EmJEa84ywZCmTkJKnGGp",
-    "category": "Cocktail",
+    "category": "bar",
     "name": "Summer Moon",
     "description": "Blue Moon Belgian White, New Amsterdam Vodka, Lemonade",
     "price": 19,
     "image": "https://i.imgur.com/Q0AO7sx.jpg"
+  },
+  {
+    "id": "price_1MZMeNJEa84ywZCmE0whpAVs",
+    "category": "concession",
+    "name": "Fresh Baked Cookie",
+    "description": "Brown Butter Toffee Cookie or Chocolate Chocolate Chunk Cookie",
+    "price": 4,
+    "image": "https://i.imgur.com/Eh7dTv7b.jpg?2"
+  },
+  {
+    "id": "price_1MZMlZJEa84ywZCm4mK2RJYX",
+    "category": "concession",
+    "name": "Loaded Brownie",
+    "description": "Loaded Peanut Butter Cup Brownie or S'mores Brownie",
+    "price": 4,
+    "image": "https://i.imgur.com/Cel4q5p.jpg"
+  },
+  {
+    "id": "price_1MZMn8JEa84ywZCm9TIo33l7",
+    "category": "concession",
+    "name": "Chips",
+    "description": "Salt and Vineger or Regular Potato Chips",
+    "price": 2,
+    "image": "https://i.imgur.com/nUYuwKh.jpg"
+  },
+  {
+    "id": "price_1MZMoNJEa84ywZCm0TTtF9Lt",
+    "category": "concession",
+    "name": "Fruit Cup",
+    "description": "Seasonal Fruit and Berries, Orange-scented Honey, vanilla Yogurt",
+    "price": 4,
+    "image": "https://i.imgur.com/qOjegtds.jpg"
+  },
+
+  {
+    "id": "price_1MZMqOJEa84ywZCmlCcb8hBe",
+    "category": "concession",
+    "name": "Soda",
+    "description": "Pepsi, Diet, Mtn Dew, Water",
+    "price": 2,
+    "image": "https://i.imgur.com/KWMOKlSs.jpg"
   }
 ]
