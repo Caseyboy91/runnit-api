@@ -2,10 +2,6 @@ const express = require("express");
 const app = express();
 const itemsRouter = require("./routes/items.js");
 
-const stripe = require("stripe")(
-  "sk_test_51MZ12jJEa84ywZCmIu3IIUicd1jXzhBHN6yIcgWEzKNgm5MnF69cIhL8wCpOngAoHqN8kHo8prhDuJvWxXYCjI4a00W0pA8Zi3"
-);
-
 const cors = require("cors");
 
 app.use(express.json());
@@ -14,6 +10,9 @@ app.use(express.static("public"));
 
 require("dotenv").config();
 const { PORT } = process.env;
+const { STRIPE_KEY } = process.env;
+
+const stripe = require("stripe")(STRIPE_KEY);
 
 app.use("/items", itemsRouter);
 
